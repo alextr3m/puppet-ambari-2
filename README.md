@@ -41,8 +41,6 @@ node 'puppetclient1' {
 
 }  
 
-# node default {}       # uncomment this line if it doesn't already exist in your manifest  
-
 ## Authors
 
 Nasheb Ismaily  
